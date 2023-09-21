@@ -1,0 +1,8 @@
+Los datos son:
+
+Nombre: Ramiro
+Apellido: Andino
+--------
+Nombre: Dana
+Apellido: Sorokoswki
+--------
